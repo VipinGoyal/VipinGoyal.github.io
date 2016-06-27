@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: What is the difference between C & Javascript 
 layout: post
 ---
